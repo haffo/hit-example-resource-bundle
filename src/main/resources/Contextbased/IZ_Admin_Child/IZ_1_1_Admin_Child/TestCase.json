@@ -1,0 +1,6 @@
+{
+  "name" : "IZ_1_1_Admin_Child",
+  "description" : "IZ_1_1_Admin_Child",
+  "type":"Isolated",
+  "sut":"Receiver"
+}

@@ -1,0 +1,9 @@
+{
+  "id" : 3,
+  "name" : "IZ_1_1.2_Max",
+  "description" : "IZ_1_1.2_Max",
+  "messageId":"f4becdab-45f9-490b-85d7-5f082a88c718",
+  "valueSetLibraryId":"IZ_ValueSetLibarary_Z22_1",
+  "constraintId":"d0845a4f-d31c-478e-ae0f-9ea8676a72b2",
+  "type":"CFTestObject"
+}
