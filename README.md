@@ -1,0 +1,1 @@
+# hit-example-resource-bundle
